@@ -1,4 +1,6 @@
 # Expanding-Div-Elements
 Expands a div when clicked and collapses the other one.
-![FireShot Capture 013 - Expanding Divs - 127 0 0 1](https://github.com/XolaniLan/Expanding-Div-Elements/assets/140137794/32fd93b4-b688-4837-81b1-c292fa159277)
-![FireShot Capture 014 - Expanding Divs - 127 0 0 1](https://github.com/XolaniLan/Expanding-Div-Elements/assets/140137794/ae0fa7ba-75e5-4f49-97ac-229191762af4)
+
+![Expanding d1](https://github.com/XolaniLan/Expanding-Div-Elements/assets/140137794/6088df62-f655-46b5-b33b-b9d232a59ad7)
+
+![Expanding d2](https://github.com/XolaniLan/Expanding-Div-Elements/assets/140137794/ea519db4-54e3-4b59-90b4-7ea25aa1011d)
